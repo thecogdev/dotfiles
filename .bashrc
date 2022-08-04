@@ -125,3 +125,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
+. "$HOME/dotfiles/env"
